@@ -1,3 +1,18 @@
+# 4.2.2 / 2018/05/06
+- Update typescript declaration file
+
+# 4.2.1 / 2018/05/06
+- Update json.js
+- Add message for SQL contain reserved words and symbols [#55](https://github.com/nuintun/node-adodb/issues/55)
+
+# 4.2.0 / 2018/05/02
+- Support x64
+- Fixed spawn error catch bugs
+
+# 4.1.0 / 2018/04/28
+- Refactoring code
+- Add node 10 test
+
 # 4.0.9 / 2018/03/31
 - Clean code and file
 - Update configure file
